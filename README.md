@@ -14,3 +14,4 @@ Steps:
 + **Reason** : log.dirs tells kafka where to create these files. So whenever you have a new partition (by increasing partition on existing topic or by creating a new topic altogether), you would see new file/s in log.dirs.
 + After you have installed your kafka bin, you are ready to run your servers.
 + Come to the cmd, and type the name of the bat file.
++ Kafka and Zookeeper servers are ready.
